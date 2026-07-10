@@ -1,0 +1,27 @@
+# Build folders
+Debug/
+Release/
+build/
+
+# STM32CubeIDE / Eclipse files
+.metadata/
+.settings/
+.project
+.cproject
+.mxproject
+
+# Compiled files
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

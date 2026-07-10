@@ -3,7 +3,7 @@
 | Function | Pin | Description |
 |---|---|---|
 | Ultrasonic Trigger | PC8 | Output signal to start the HC-SR04 measurement |
-| Ultrasonic Echo | PC9 / TIM3_CH4 | Echo input captured using TIM3 channel 4 |
+| Ultrasonic Echo | PC9 | Echo input captured using TIM3 channel 4 |
 | Distance LED 1 | PC0 | Distance indicator |
 | Distance LED 2 | PC1 | Distance indicator |
 | Distance LED 3 | PC2 | Distance indicator |

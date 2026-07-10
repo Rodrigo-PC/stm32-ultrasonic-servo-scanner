@@ -141,7 +141,7 @@ This approximation is based on the speed of sound and the round-trip time of the
 
 ## Author
 
-Rodrigo Parente Carrasco \n
-Telecommunication Engineering Student \n
-Universidad Carlos III de Madrid \n
+Rodrigo Parente Carrasco  
+Telecommunication Engineering Student  
+Universidad Carlos III de Madrid  
 

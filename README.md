@@ -38,14 +38,14 @@ The system combines GPIO, timers, PWM, input capture, external interrupts, ADC a
 | Function              | Pin             |
 | --------------------- | --------------- |
 | Ultrasonic Trigger    | PC8             |
-| Ultrasonic Echo       | PC9 / TIM3_CH4  |
+| Ultrasonic Echo       | PC9             |
 | Distance LEDs         | PC0 - PC4       |
 | Measurement LED       | PB5             |
 | Manual Measure Button | PB4             |
 | Mode Button           | PC13            |
 | Mode LED              | PA5             |
 | ADC Input             | PA1             |
-| Servo PWM             | TIM2 PWM output |
+| Servo PWM             |        -        |
 | UART                  | USART2          |
 
 ## Operation Modes

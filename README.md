@@ -45,7 +45,7 @@ The system combines GPIO, timers, PWM, input capture, external interrupts, ADC a
 | Mode Button           | PC13            |
 | Mode LED              | PA5             |
 | ADC Input             | PA1             |
-| Servo PWM             |        -        |
+| Servo PWM             | PA0             |
 | UART                  | USART2          |
 
 ## Operation Modes
